@@ -1,9 +1,6 @@
-<p align="center">
-  <a>
-<img src="https://cdn.discordapp.com/attachments/699442213540724806/743178070101458965/1531071930_1517087115_1516939666_1495492931_tumblr_oancbjkgyF1uedxbxo2_500.gif" alt="Avatar" style="border-radius: 75%;">
-  </a><br>
+
   
-# NOTE: I'VE CHANGED MY GITHUB ACCOUNT USERNAME FROM BOWLINGTOOLKIT TO KAMUI966
+# NOTE: I'VE CHANGED MY GITHUB ACCOUNT USERNAME FROM Mongo TO Ohpeii
 
 *All Projects Are Only For Educational Purposes*
 
@@ -19,11 +16,11 @@
 # Social Media
 Discord: Ohpei#9102 ( My Old Account Got Terminated ! )
 <br>
-Twitter: [@xxxRevenge5](https://twitter.com/xxxRevenge5)
+Twitter: [@Ohpei]
 <br>
-YouTube: [REVENGE](https://www.youtube.com/channel/UCPwO0Ho4BbnFp2tPNP2uW_g)
+YouTube: [Ohpei]
 <br>
-[Discord Server](https://discord.gg/npFXCfn) OLD DISCORD SERVER GOT BANNED
+[Discord Server](https://discord.gg/pnZOQla) OLD DISCORD SERVER GOT BANNED
 
 
 # Stats
