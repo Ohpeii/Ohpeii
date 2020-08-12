@@ -26,6 +26,6 @@ YouTube: [REVENGE](https://www.youtube.com/channel/UCPwO0Ho4BbnFp2tPNP2uW_g)
 
 
 # Stats
-![stats](https://github-readme-stats.vercel.app/api?username=KAMUI966&show_icons=true&theme=radical) 
+![stats](https://github-readme-stats.vercel.app/api?username=Ohpeii&show_icons=true&theme=radical) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KAMUI966&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohpeii&theme=radical)
