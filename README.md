@@ -1,27 +1,22 @@
-
-  
-# NOTE: I'VE CHANGED MY GITHUB ACCOUNT USERNAME FROM MONGO TO OHEPII
-
 *All Projects Are Only For Educational Purposes*
 
-# The programming languages I know
+# The programming languages & frameworks I know
 - C#
-- JavaScript
+- JavaScript & NodeJS
 - Python
+- Vue
+
+*And Soon C++*
 
 # Topics currently interested in
-- Discord Raiding
-- Malicious & Viruses
+- Discord Bugs 😜
+- Malicious & Viruses and how they works
 
 # Social Media
-Discord: Ohpei#9102 ( My Old Account Got Terminated ! )
+Twitter: [@ohpei](ohpei)
 <br>
-Twitter: [@Ohpei]
+YouTube: [ohpei](https://www.youtube.com/user/mamdo7saad)
 <br>
-YouTube: [Ohpei]
-<br>
-[Discord Server](https://discord.gg/pnZOQla) OLD DISCORD SERVER GOT BANNED
-
 
 # Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=Ohpeii&show_icons=true&theme=radical) 
